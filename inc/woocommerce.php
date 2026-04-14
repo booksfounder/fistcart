@@ -1,0 +1,3 @@
+<?php
+// WooCommerce functions
+?>

@@ -1,0 +1,3 @@
+<?php
+// Custom template tags
+?>
